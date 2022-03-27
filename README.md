@@ -99,7 +99,8 @@ Other than the languages/tools mentioned above no other/external libraries and/o
 6. [Gloria Ekaran](https://github.com/ekarangloria)
 7. [Eddy Ndumia](https://github.com/eddyndumia)
 
-### Project Link: [https://github.com/eddyndumia/Dream-House](https://github.com/eddyndumia/Dream-House)
+## Project Link: 
+[https://github.com/eddyndumia/Dream-House](https://github.com/eddyndumia/Dream-House)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
